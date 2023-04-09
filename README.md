@@ -9,12 +9,35 @@
 [![Generic badge](https://img.shields.io/badge/MATLAB-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Tensorflow-YES-<COLOR>.svg)](https://shields.io/)
 
--  🔭 Currenty a 2nd Year Computer Engineer at UofT
--  🌱 Passionate about Software Development, Electronics, Machine Learning, Brain Computer Interfaces
-- 👯  Love collaborating with start-ups, engineers to work on software projects
-- 🤔 Looking to explore more ML applications in biomedical fields through research and building personal projects 
-- 📫 How to reach me: lingambrose@gmail.com 
-
+```python
+class WhoAmI:
+    user = "Ambrose Ling"
+    current_edu = "University of Toronto"
+    year = "2nd"
+    hobbies = ["chess","football","coffee","coding"]
+    
+    def getPassions():
+      SoftwareDevelopment()
+      Electronics()
+      MachineLearning()
+      BrainComputerInterfaces()
+    
+    def getRecentProjects():
+      LINKUPSS()
+      RoastRouteGIS()
+      ARM_Processor()
+    
+    def getSofwareExpertise():
+     HighLevel = ['C++','Java','Python']
+     LowLevel = ['C/Assembly','Verilog']
+     ML = ['Tensorflow','Keras ML']
+     Web = ['React','Node','Flask','FastAPI','HTML/CSS']
+     
+    def reachMe():
+      email = "lingambrose@gmail.com"
+      linkedin = "linkedin.com/ambrose-ling"
+      instagram = "ambroseling1015"
+```
 
 <table>
   <tr>
