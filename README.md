@@ -12,7 +12,7 @@
 ```python
 class WhoAmI:
     user = "Ambrose Ling"
-    current_edu = "University of Toronto"
+    current_edu = "Computer Engineering @University of Toronto"
     year = "2nd"
     hobbies = ["chess","football","coffee","coding"]
     
