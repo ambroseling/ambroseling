@@ -1,5 +1,5 @@
 
-# Hi there its Ambrose Ling👋
+# Hi there its Ambrose👋
 
 [![Generic badge](https://img.shields.io/badge/C++/C/Assembly-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Python-YES-<COLOR>.svg)](https://shields.io/)
