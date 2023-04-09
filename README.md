@@ -34,7 +34,7 @@
 LINKUPSS is a tech start up aiming to simplify technology for seniors through onliine meetings.Through working with day-care centers, community centers , engineers, we are working to break the digital divide for all generations. Check out what we're working on right now !
 - [Google Solutions Challenge 2023](https://www.youtube.com/watch?v=1npCEqfD8k4&t=15s)
 
-#Couse Work
+# Course Work
 - RoastRoute: Coffee Date GIS (ECE297)
 - BuzzWire: ARM Cyclone V DE1-SoC (ECE243)
 - Reversi: Turn-based strategy Game in C (APS105)
