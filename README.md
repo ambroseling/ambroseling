@@ -36,6 +36,7 @@ LINKUPSS is a tech start up aiming to simplify technology for seniors through on
 
 # Course Work
 - RoastRoute: Coffee Date GIS (ECE297)
+   - [Our Wiki Page](http://ug251.eecg.utoronto.ca/wiki297s/doku.php?id=cd019:start)
 - BuzzWire: ARM Cyclone V DE1-SoC (ECE243)
 - Reversi: Turn-based strategy Game in C (APS105)
 
