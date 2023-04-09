@@ -4,15 +4,16 @@
 [![Generic badge](https://img.shields.io/badge/C++/C/Assembly-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Python-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Java-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JavaScipt-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/React-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MATLAB-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Tensorflow-YES-<COLOR>.svg)](https://shields.io/)
 
 -  🔭 Currenty a 2nd Year Computer Engineer at UofT
 -  🌱 Passionate about Software Development, Electronics, Machine Learning, Brain Computer Interfaces
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: lingambrose@gmail.com
+- 👯  Love collaborating with start-ups, engineers to work on software projects
+- 🤔 Looking to explore more ML applications in biomedical fields through research and building personal projects 
+- 📫 How to reach me: lingambrose@gmail.com 
 
 
 <table>
