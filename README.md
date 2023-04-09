@@ -1,4 +1,20 @@
 
+# Hi there its Ambrose Ling👋
+
+[![Generic badge](https://img.shields.io/badge/C++/C/Assembly-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Java-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MATLAB-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Tensorflow-YES-<COLOR>.svg)](https://shields.io/)
+
+-  🔭 Currenty a 2nd Year Computer Engineer at UofT
+-  🌱 Passionate about Software Development, Electronics, Machine Learning, Brain Computer Interfaces
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about 
+- 📫 How to reach me: lingambrose@gmail.com
+
+
 <table>
   <tr>
     <td>
@@ -14,22 +30,17 @@
   </tr>
 </table>
 
-[![Generic badge](https://img.shields.io/badge/C++/C/Assembly-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Python-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Java-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/MATLAB-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Tensorflow-YES-<COLOR>.svg)](https://shields.io/)
+# LINKUPSS (Co-founder)
+LINKUPSS is a tech start up aiming to simplify technology for seniors through onliine meetings.Through working with day-care centers, community centers , engineers, we are working to break the digital divide for all generations. Check out what we're working on right now !
+- [Google Solutions Challenge 2023](https://www.youtube.com/watch?v=1npCEqfD8k4&t=15s)
 
+#Couse Work
+- RoastRoute: Coffee Date GIS (ECE297)
+- BuzzWire: ARM Cyclone V DE1-SoC (ECE243)
+- Reversi: Turn-based strategy Game in C (APS105)
 
-### Hi there its Ambrose👋
--  🔭 Currenty a 2nd Year Computer Engineer at UofT
--  🌱 Passionate about Software Development, Electronics, Machine Learning, Brain Computer Interfaces
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: lingambrose@gmail.com
+# ML Projects
+- Bitcoin Price Predictor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2nghZTOzs9u5lgMzETvQSN4jhz7tAsy)
+- Tweet Disaster Classificatoin NLP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13XAe8Hy_F3tCuDsWR55xzJlxI4BbihYy)
+- Food 101 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1epo8WlfpE4FSRaQ6BIE14niTFKPZlkSt)
 
-
-# Blog posts
-- [LINKUPSS](http://www.linkupss.com/)
-- 
