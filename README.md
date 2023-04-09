@@ -35,7 +35,7 @@ class WhoAmI:
      
     def reachMe():
       email = "lingambrose@gmail.com"
-      linkedin = "linkedin.com/ambrose-ling"
+      linkedin = "linkedin.com/in/ambrose-ling"
       instagram = "ambroseling1015"
 ```
 
