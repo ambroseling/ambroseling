@@ -46,11 +46,7 @@ class WhoAmI:
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1" alt="GitHub Streak" />
       </a>
     </td>
-    <td>
-      <a href="https://open.spotify.com/user/22f3jxttnpknq4fqtknrl2bxi">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=22f3jxttnpknq4fqtknrl2bxi" alt="Recently Played on Spotify" />
-      </a>
-    </td>
+
   </tr>
 </table>
 
