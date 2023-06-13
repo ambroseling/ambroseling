@@ -13,7 +13,7 @@
 class WhoAmI:
     user = "Ambrose Ling"
     current_edu = "Computer Engineering @University of Toronto"
-    year = "2nd"
+    year = "to be 3rd"
     hobbies = ["chess","football","coffee","coding"]
     
     def getPassions():
@@ -26,6 +26,7 @@ class WhoAmI:
       LINKUPSS()
       RoastRouteGIS()
       ARM_Processor()
+      Tensorflow()
     
     def getSofwareExpertise():
      HighLevel = ['C++','Java','Python']
