@@ -54,7 +54,7 @@ class WhoAmI:
 # LINKUPSS (Co-founder)
 LINKUPSS is a tech start up aiming to simplify technology for seniors through onliine meetings.Through working with day-care centers, community centers , engineers, we are working to break the digital divide for all generations. Check out what we're working on right now !
 - [Google Solutions Challenge 2023](https://www.youtube.com/watch?v=1npCEqfD8k4&t=15s)
-
+- [Company website](https://www.linkupss.com)
 # Course Work
 - RoastRoute: Coffee Date GIS (ECE297)
    - [Our Wiki Page](http://ug251.eecg.utoronto.ca/wiki297s/doku.php?id=cd019:start)
