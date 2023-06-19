@@ -254,6 +254,7 @@ eeba
 Our team of 2 developed a processor using System Verilog that is able to perform fundamental ARM Assembly instructions in the ARM Cyclone V DE1-SoC board. We built different components bit by bit. To execute an instruction we used the KEY buttons as well as TOGGLE switches as input to the processor and allowed the output to be shown on the HEX display as well as LED lights. We used ModelSim for simulations of our instructions for debugging and testing. Overall, it was definitely one challenging project but was very rewarding at the end to see it working.
 
 ### Reversi: Turn-based strategy Game in C (Introduction to Programming in C/C++)
+I developed a artificial intelligence that is capable of playing the turn-based strategy board game, Reversi. Using the recursive algorithm MinMax, my bot was able to beat the vast majority of other bots in our class, ranking 57th among 250+ other students. Check out [the repository](https://github.com/ambroseling/Reversi) for more details!
 
 # Connect with me !
 <p align="left">
