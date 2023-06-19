@@ -24,8 +24,6 @@ I love exploring machine learning applications, playing with electronics, doing 
 
 
 # Some of my expertise...
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambroseling&show_icons=true&locale=en&layout=compact" alt="" /></p>
-
 ## Languages
 <p align="left">
     <a href="" target="_blank" rel="noreferrer">
@@ -255,8 +253,7 @@ Check out [our repository](http://ug251.eecg.utoronto.ca/wiki297s/doku.php?id=cd
 
 # Connect with me !
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ambrose-ling/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCr3NDxv6PlXOAgloNPzpK8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/ambroseling1015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
