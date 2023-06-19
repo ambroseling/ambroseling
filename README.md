@@ -247,6 +247,9 @@ We also applied the Greedy algorithm to tackle travelling courier problem, utili
 Check out [our repository](http://ug251.eecg.utoronto.ca/wiki297s/doku.php?id=cd019:start) for more details!
 
 ### BuzzWire: ARM Cyclone V DE1-SoC (Computer Organization and Architecture)
+BuzzWire is a hardware game that challenges contenders ability to focus and complete an exciting metal wire obstacle course using a wand. The DE1-Soc board is connected to a circuitry that reads changes in voltage values from the Analog to Digital Converter port and uses that to determine whether the player has touched the wire and ignited the bomb. We used the A9 Private Timer to count down 30 seconds as a time constraint for players as well as used the VGA display to show a graphical user interface about when the game is in progress and when the player has won or lost, we also played an explosion sound effect when users lost through the Sound/Audio I/O ports of the board. It was a rewarding experience for my partner Areeba and myself. Check out [our repository](https://github.com/ambroseling/BuzzWire) for more details!
+eeba 
+### 16 bit Processor: ARM Cyclone V DE1-SoC (Computer Organization and Architecture)
 
 
 ### Reversi: Turn-based strategy Game in C (Introduction to Programming in C/C++)
