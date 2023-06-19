@@ -20,7 +20,7 @@
 </p>
 
 Hello hello! I'm Ambrose Ling in third year ECE with a double minor in Artifical Intelligence and Engineering Entrepeneurship.
-I love exploring machine learning applications, playing with electronics, doing fun software projects, making the world a better place with technology. Feel free to connect with anytime at the channels below !
+I love exploring machine learning applications, playing with electronics, doing fun software projects, making the world a better place with technology. I also love a good cup of coffee, playing chess and football. Feel free to connect with me through the channels below !
 
 
 # Some of my expertise...
