@@ -62,7 +62,7 @@ I love exploring machine learning applications, playing with electronics, doing 
   </a> 
 </p>
 
-## Machine Learning & Data Analytics
+## Machine Learning & Data Science
 <p align="left">
   <a href="" target="_blank" rel="noreferrer">
     <img
