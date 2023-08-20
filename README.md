@@ -1,10 +1,9 @@
 
 # Hi there its Ambrose👋
 
-[![Generic badge](https://img.shields.io/badge/Software_Development-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Deep-Learning-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Machine_Learning-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Full_Stack-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Brain_Computer_Interfaces-YES-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Neuroscience-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Entrepenur-YES-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Seeking_For_Internship_Oppurtunities_2023-YES-<COLOR>.svg)](https://shields.io/)
 
@@ -226,15 +225,67 @@ I love exploring machine learning applications, playing with electronics, doing 
 # What am I up to?
 
 ## Neurosience/Deep Learning Research @ LinLabs
-In the summer of 2023, I worked on a neuroscience research project with Professor Qian Lin that aims to study the neurodynamics of zebrafish behaviour under different visual and electrical stimuli. By using zebrafish tracking softwares such as Python Stytra and DeepLabCut, we were able to analyse behavioural responses from their change in position and tail angle. Thus, using deep learning models, we were able to feed response data into neural networks in order to make future predictions on their behaviour. On top of that, I was responsible in creating a Virtual Reality environment that is to be presented to zebrafish as visual stimulus in order to study their spatial recognition abilities.
+In the summer of 2023, I worked on a neuroscience research project with Professor Qian Lin that aims to study the neurodynamics of zebrafish behaviour in spatial recognition and task learning. My research contributed to 2 areas:
+
+**Zebrafish tracking**
+- Implemented computer vision tracking with ResNet50, MobileNet architectures, achieved tracking accuracy of 75%+ 
+- Preprocessed images by applying normalization,resizing and scaling, preprocessed labels by converting coordiantes to gaussian distributed heat map 
+- Optimized real-time tracking prediction speed by 55% (measured by timer) with parallel computing in Tensorflow, that would help minimize the latency in the experimental system
+- Designed image preprocessing software, allowed other students to label images and speed up experiments
+- Instructed other lab members on how to use tracking software such as the web app, stytra, deeplabcut
+- Leveraged GPU to speed up tail tracking model training
+- Assisted with hardware testing
+- Helped facilitate socket connections from Stytra Python to Unity
+
+For more details and code, check out our [repo](https://github.com/ambroseling/Zebrafish-DeepLabCut)
+
+**Locomotion Prediction** 
+- Presented papers on continous time recurrent neural networks, Neural ODE networks, LTC networks in journal clubs
+- Implemented the benchmark autoregressive model for predicting zebrafish movement in VR, clearly demonstrated weaknesses in their model and datasets
+- Preprocessed public  tail deflection datasets by using noise reduction, local polynomial interpolation, normalization to handle uneven sampling
+- Optimized movement predictions by developing our own multi layer GRU model, LTC model, and GRU encoder-LTC decoder model, beat the benchmark by 5% in MSE reduction, 6% in R^2 score increase
+- Presented locomotion prediction research at Undegraduate engineering research conference, awarded Best Overall Poster Presentation
+- Demonstrated a comprehensive model performance comparision, conducted parameter search to find best optimal working model
+
+For more details and code, check out our [repo](https://github.com/ambroseling/Zebrafish-DeepLabCut)
+
 
 ## LINKUPSS Co.
-LINKUPSS is a tech start up aiming to simplify technology for seniors through making online resources accessible.Through working with day-care centers, community centers , engineers, we are working to break the digital divide for all generations.
-Our tech start up is curretly in the UofT Entrepenurship Hatchery program working with an advisory board of industry professional mentors and connectors on building our buisness plan, conducting market research and customer outreach as well as cashflow projections. Our team has facilitated connections with over 116 senior organisations, 200+ seniors across Ontario, Canada with 40 organisations in progress of implementing our solutions. We're hoping to continue our efforts to reach as many organisations as possible and to help as much seniors as possible. Our start up idea was awarded the [Google Solutions Challenge 2023 Global Top 100 Qualifiers](https://www.youtube.com/watch?v=1npCEqfD8k4&t=15s) out of 2000+ teams worldwide. From that time, we have received mentorship from Google engineers and designers, thus making continous improvements and modifications to our design. Feel free to contact me to learn more or check out our [LINKUPSS website](https://www.linkupss.com)!
-
+- **LINKUPSS**: A tech start-up aiming to simplify technology for seniors through accessible online resources.
+- Collaboration with:
+  - Day-care centers
+  - Community centers
+  - Engineers
+- Mission: Bridge the digital divide across generations.
+- Currently in UofT Entrepreneurship Hatchery program.
+- Advisory board of industry professionals assisting with:
+  - Business plan development
+  - Market research
+  - Customer outreach
+  - Cashflow projections
+- Facilitated connections with:
+  - 116+ senior organizations
+  - 200+ seniors in Ontario, Canada
+  - 40 organizations implementing solutions
+- Goal: Expand outreach to more organizations and seniors.
+- Awarded [Google Solutions Challenge 2023 Global Top 100 Qualifiers](https://www.youtube.com/watch?v=1npCEqfD8k4&t=15s) out of 2000+ teams worldwide.
+- Mentorship from Google engineers and designers, leading to continuous design improvements.
+For more information, feel free to contact and visit our [LINKUPSS website](https://www.linkupss.com)!
 
 ## Tensorflow Developer Certification
-I have completed the Tensorflow Developer Certification from Google. Throughout this process, I have developed a variety of ML models in binary, multiclass classification, linear regression, image classification, object detection, natural language processing, text generation, time-series and sequential analysis. I believe this would be a perfect way of demonstrating my competence in machine learning and open more doors for me in machine learning oppurtunities. To see my repo for preparing the exam, check out [here](https://github.com/ambroseling/Tensorflow) 
+I have completed the **Tensorflow Developer Certification** from Google. 
+During this certification journey, I have accomplished the following:
+- Developed a range of ML models including:
+  - Binary and multiclass classification
+  - Linear regression
+  - Image classification
+  - Object detection
+  - Natural language processing
+  - Text generation
+  - Time-series analysis
+  - Sequential analysis
+I believe this achievement effectively showcases my competence in machine learning and positions me for further opportunities in the field.
+To explore my exam preparation repository [here](https://github.com/ambroseling/Tensorflow).
 
 Some sample models:
 - Bitcoin Price Predictor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2nghZTOzs9u5lgMzETvQSN4jhz7tAsy)
@@ -243,20 +294,49 @@ Some sample models:
 
 ## Course Work
 ### RoastRoute: Coffee Date GIS (Software Communication & Design)
-Our team of 3 developed a GIS platform using GTK, C++, FastAPI, OpenStreetMapAPI that allows users to organize a coffee date.
-We implemented Dijkstra's algorithm with multithreading for path-finding, less than 0.15s computation time for paths above 15km.
-We also applied the Greedy algorithm to tackle travelling courier problem, utilized local pertubations that improved path quality by 15%+.
-Check out [our repository](http://ug251.eecg.utoronto.ca/wiki297s/doku.php?id=cd019:start) for more details!
+Our team of 3 developed a **GIS platform** using the following technologies:
+- GTK
+- C++
+- FastAPI
+- OpenStreetMapAPI
+This platform enables users to efficiently organize coffee dates. Our project includes the following achievements:
+- Implemented **Dijkstra's algorithm** with multithreading for path-finding.
+- Achieved impressive computation times: less than 0.15 seconds for paths above 15 km.
+- Addressed the traveling courier problem using the **Greedy algorithm**.
+- Incorporated local perturbations to enhance path quality by more than 15%.
+  
+For more details, explore [our repository](http://ug251.eecg.utoronto.ca/wiki297s/doku.php?id=cd019:start).
 
 ### BuzzWire: ARM Cyclone V DE1-SoC (Computer Organization and Architecture)
-BuzzWire is a hardware game that challenges contenders ability to focus and complete an exciting metal wire obstacle course using a wand. The DE1-Soc board is connected to a circuitry that reads changes in voltage values from the Analog to Digital Converter port and uses that to determine whether the player has touched the wire and ignited the bomb. We used the A9 Private Timer to count down 30 seconds as a time constraint for players as well as used the VGA display to show a graphical user interface about when the game is in progress and when the player has won or lost, we also played an explosion sound effect when users lost through the Sound & Audio I/O ports of the board. It was a rewarding experience for my partner Areeba and myself. Check out [our repository](https://github.com/ambroseling/BuzzWire) for more details!
+**BuzzWire** is a hardware game designed to test players' focus and skills in navigating an exciting metal wire obstacle course using a wand. The key features of this project include:
+- Integration of the **DE1-Soc board** with circuitry.
+- Reading voltage changes from the Analog to Digital Converter port to detect player interactions with the wire.
+- Utilizing the **A9 Private Timer** to enforce a 30-second time constraint for players.
+- Displaying a graphical user interface through the **VGA display** to indicate game progress and outcomes.
+- Playing an explosion sound effect via the **Sound & Audio I/O** ports when players lose.
+- A collaborative effort by Areeba and myself, resulting in a rewarding experience.
+
+For more in-depth information, please visit [our repository](https://github.com/ambroseling/BuzzWire).
 
 
 ### ARM 16 bit Processor: ARM Cyclone V DE1-SoC (Computer Organization and Architecture)
-Our team of 2 developed a processor using System Verilog that is able to perform fundamental ARM Assembly instructions in the ARM Cyclone V DE1-SoC board. We built different components bit by bit. To execute an instruction we used the KEY buttons as well as TOGGLE switches as input to the processor and allowed the output to be shown on the HEX display as well as LED lights. We used ModelSim for simulations of our instructions for debugging and testing. Overall, it was definitely one challenging project but was very rewarding at the end to see it working. Check out [our repository](https://github.com/ambroseling/ARM-Processor) for more details!
+Our collaborative effort resulted in the development of a processor using **System Verilog**, designed to execute essential **ARM Assembly instructions** on the **ARM Cyclone V DE1-SoC board**. The project highlights include:
+- Step-by-step construction of different components.
+- Utilization of **KEY buttons** and **TOGGLE switches** as input methods for instruction execution.
+- Displaying output on the **HEX display** and LED lights.
+- Incorporation of **ModelSim** for simulation, debugging, and testing purposes.
+- A challenging yet rewarding experience that culminated in a functional processor.
+
+For detailed insights, please explore [our repository](https://github.com/ambroseling/ARM-Processor).
 
 ### Reversi: Turn-based strategy Game in C (Introduction to Programming in C/C++)
-I developed a artificial intelligence that is capable of playing the turn-based strategy board game, Reversi. Using the recursive algorithm MinMax, my bot was able to beat the vast majority of other bots in our class, ranking 57th among 250+ other students. Check out [the repository](https://github.com/ambroseling/Reversi) for more details!
+I successfully created an **artificial intelligence** capable of playing the turn-based strategy board game, **Reversi**. My achievement included the following:
+- Implementation of the **MinMax recursive algorithm** for decision-making.
+- Outperformance against the majority of bots in our class.
+- Ranking **57th** out of over **250+ students** in the class competition.
+
+For a deeper understanding, feel free to explore [the repository](https://github.com/ambroseling/Reversi).
+
 
 # Connect with me !
 <p align="left">
