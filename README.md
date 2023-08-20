@@ -225,7 +225,7 @@ I love exploring machine learning applications, playing with electronics, doing 
 
 # What am I up to?
 
-## Neurosience Research @ LinLabs
+## Neurosience/Deep Learning Research @ LinLabs
 In the summer of 2023, I worked on a neuroscience research project with Professor Qian Lin that aims to study the neurodynamics of zebrafish behaviour under different visual and electrical stimuli. By using zebrafish tracking softwares such as Python Stytra and DeepLabCut, we were able to analyse behavioural responses from their change in position and tail angle. Thus, using deep learning models, we were able to feed response data into neural networks in order to make future predictions on their behaviour. On top of that, I was responsible in creating a Virtual Reality environment that is to be presented to zebrafish as visual stimulus in order to study their spatial recognition abilities.
 
 ## LINKUPSS Co.
@@ -233,8 +233,8 @@ LINKUPSS is a tech start up aiming to simplify technology for seniors through ma
 Our tech start up is curretly in the UofT Entrepenurship Hatchery program working with an advisory board of industry professional mentors and connectors on building our buisness plan, conducting market research and customer outreach as well as cashflow projections. Our team has facilitated connections with over 116 senior organisations, 200+ seniors across Ontario, Canada with 40 organisations in progress of implementing our solutions. We're hoping to continue our efforts to reach as many organisations as possible and to help as much seniors as possible. Our start up idea was awarded the [Google Solutions Challenge 2023 Global Top 100 Qualifiers](https://www.youtube.com/watch?v=1npCEqfD8k4&t=15s) out of 2000+ teams worldwide. From that time, we have received mentorship from Google engineers and designers, thus making continous improvements and modifications to our design. Feel free to contact me to learn more or check out our [LINKUPSS website](https://www.linkupss.com)!
 
 
-## Independent ML Projects & Tensorflow development
-I am currently in the process of pursuing a Tensorflow Developer Certificate as I believe this is a great oppurtunity for me to showcase my skillset and knowledge in leading-edge ML topics. Throughout this process, I have developed a variety of ML models in binary, multiclass classification, linear regression, image classification, object detection, natural language processing, text generation, time-series and sequential analysis. As I plan to complete the exam very soon, I hope this would be a perfect way of demonstrating my competence in machine learning and open more doors for me in machine learning oppurtunities.
+## Tensorflow Developer Certification
+I have completed the Tensorflow Developer Certification from Google. Throughout this process, I have developed a variety of ML models in binary, multiclass classification, linear regression, image classification, object detection, natural language processing, text generation, time-series and sequential analysis. I believe this would be a perfect way of demonstrating my competence in machine learning and open more doors for me in machine learning oppurtunities. To see my repo for preparing the exam, check out [here](https://github.com/ambroseling/Tensorflow) 
 
 Some sample models:
 - Bitcoin Price Predictor [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2nghZTOzs9u5lgMzETvQSN4jhz7tAsy)
