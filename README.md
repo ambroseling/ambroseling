@@ -229,7 +229,7 @@ In the summer of 2023, I worked on a neuroscience research project with Professo
 
 **Zebrafish tracking**
 - Implemented computer vision tracking with ResNet50, MobileNet architectures, achieved tracking accuracy of 75%+ 
-- Preprocessed images by applying normalization,resizing and scaling, preprocessed labels by converting coordiantes to gaussian distributed heat map 
+- Preprocessed images by applying normalization,resizing and scaling,used K-means clustering to segregate frames; preprocessed labels by converting coordiantes to gaussian distributed heat map 
 - Optimized real-time tracking prediction speed by 55% (measured by timer) with parallel computing in Tensorflow, that would help minimize the latency in the experimental system
 - Designed image preprocessing software, allowed other students to label images and speed up experiments
 - Instructed other lab members on how to use tracking software such as the web app, stytra, deeplabcut
