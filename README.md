@@ -284,6 +284,8 @@ During this certification journey, I have accomplished the following:
   - Text generation
   - Time-series analysis
   - Sequential analysis
+
+
 I believe this achievement effectively showcases my competence in machine learning and positions me for further opportunities in the field.
 To explore my exam preparation repository [here](https://github.com/ambroseling/Tensorflow).
 
