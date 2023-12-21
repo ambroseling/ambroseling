@@ -1,12 +1,6 @@
 
 # Hi there its Ambrose👋
 
-[![Generic badge](https://img.shields.io/badge/Deep_Learning-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Machine_Learning-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Neuroscience-YES-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Entrepenur-YES-<COLOR>.svg)](https://shields.io/)
-
-
 # A little bit about myself...
 <p align="center">
         <a href="" target="_blank" rel="noreferrer">
